@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fsharp256.png</file>
+        <file>images.png</file>
+    </qresource>
+</RCC>
